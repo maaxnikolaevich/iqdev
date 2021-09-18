@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Europe';
+  src: url('Europe-Normal_16264.woff2') format('woff2'),
+       url('Europe-Normal_16264.woff') format('woff'),
+       url('Europe-Normal_16264.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'Europe', sans-serif;
+}
